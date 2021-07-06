@@ -1,0 +1,52 @@
+body {
+	background-color: #EBEBD3;
+}
+.container {
+	background-color: #F1A96A;
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 80%;
+	margin: auto;
+	margin-top: 10px;	
+}
+
+h1 {
+	color: #083D77;
+	text-align: center;
+	font-family: cursive;
+}
+
+textarea {
+	display: inline-block;
+	width: 100%;
+}
+
+.container_quote {
+	vertical-align: text-top;
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;
+	width: 50%;
+	margin: auto;
+}
+
+.register {
+	border: 2px black solid;
+	border-radius: 7px;
+	padding: 5px;
+	margin: 5px;
+	margin-left: 30px;
+	font-size: 10pt;
+	width: 190px;
+}
+
+.buton {
+	background-color: #8DC0F7;
+	border-radius: 4px;
+}
